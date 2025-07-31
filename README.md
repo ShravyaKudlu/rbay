@@ -32,9 +32,9 @@ Designed and developed a dynamic **real-time auction platform** inspired by eBay
 
 ---
 
-> 📽️ Watch MealGenie in action:
+> 📽️ Watch Rbay in action:
 
-[![MealGenie Demo](./assets/demo-thumbnail.png)](https://drive.google.com/file/d/1Ta6o3OSuNg0wd0pbSasb13wDTU6IQ1Jw/view?usp=sharing)
+[![MealGenie Demo](./Thumnail_Rbay.png)](https://drive.google.com/file/d/1-eU8T-cdxR3yuKS_kAKQZHNZ_kT7_0OU/view?usp=sharing)
 
 > _Click the image above to watch the full demo on Google Drive._
 
